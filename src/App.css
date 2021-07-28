@@ -1,8 +1,14 @@
+.fondo {
+    background-image: url("thelma-loise.jpg");
+    background-color: rgb(218, 207, 207);
+    background-blend-mode:soft-light; 
+}
+
 .container{
     display: flex;
     margin-top: 10px;
+    
 }
-
 
 .link{
     text-decoration: none;

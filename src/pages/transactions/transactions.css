@@ -1,0 +1,23 @@
+.transactions{
+    display:flex;
+    align-items: center;
+    justify-content:space-between;    
+}
+
+.transactionsTitleContainer {
+    color: rgb(97, 96, 96);
+    text-align: center;
+}
+
+.transactionsContainer {
+    margin-left: 100px;
+    margin-right: 50px;
+    -webkit-box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+    font-family: 'Basic Commercial LT Com';
+    src: url('AkzidenzGroteskRegular.ttf'); 
+    color:red;
+    text-align: justify;
+    font-size: 16px;
+
+}
